@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: FPT UNIVERSITY.
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Smart Home**
 
 <br />
 
